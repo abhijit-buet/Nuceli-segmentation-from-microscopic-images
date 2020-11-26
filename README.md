@@ -6,4 +6,11 @@ The task contained images of nuclei and required to produce segmented mask of nu
 <h6>
 <img src="https://github.com/abhijit-buet/Images/blob/main/Slide1.PNG" width="768" height="512">
 
-Our proposed framework Consists of a customized U-NET ar
+Our proposed framework Consists of a customized U-NET architecture.
+
+We have applied different type of augmentation to the inpute image: 1) Vertical Shifting 2) Horizontal Shifting 3) Random Croping
+
+
+<h1> Result
+  <h6>
+  Our algorithm got Mean IOU(intersection over Union) score about 0.52. 
