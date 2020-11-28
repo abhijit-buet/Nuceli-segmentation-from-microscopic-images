@@ -15,4 +15,4 @@ We applied different types of augmentation to the input image: 1) Vertical Shift
 
 <h1> Result
   <h6>
-  Our algorithm got Mean IOU(intersection over Union) score about 0.52. 
+  Our algorithm got Mean IOU(intersection over Union) score of 0.52. 
