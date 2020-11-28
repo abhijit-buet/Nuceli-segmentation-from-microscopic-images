@@ -7,7 +7,7 @@ The task contained images of nuclei and required to produce segmented mask of nu
   
  Our proposed framework Consists of a customized U-NET architecture.
 
-We applied different type of augmentation to the inpute image: 1) Vertical Shifting 2) Horizontal Shifting 3) Random Croping
+We applied different types of augmentation to the input image: 1) Vertical Shifting 2) Horizontal Shifting 3) Random Croping
 <img src="https://github.com/abhijit-buet/Images/blob/main/Slide1.PNG" width="768" height="512">
 
 
